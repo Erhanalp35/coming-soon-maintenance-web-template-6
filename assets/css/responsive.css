@@ -1,0 +1,4 @@
+html{overflow-x:hidden}
+@media(max-width:750px){body{padding:20px}main{grid-template-columns:1fr}.copy{padding-top:60px}.scene{height:350px}.robot{transform:scale(.7);transform-origin:bottom;left:25%}.bubbles div{width:clamp(60px,20vw,83px)}form{display:block}form>div{margin-top:10px}form p{min-height:16px}}
+@media(max-width:380px){.bubbles{gap:4px}.bubbles b{font-size:1.2rem}form>div{display:grid}input,form button{border-radius:18px;padding:13px}}
+@media(prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
